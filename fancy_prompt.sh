@@ -1,5 +1,8 @@
 ### Taken from Barry Clark's bashstrap (https://github.com/barryclark/bashstrap.git)
 
+### To use, add the following to your .bashrc or .bash_profile :
+### source (the/path/to/)fancy_prompt.sh
+
 ### Prompt Colors
 # Modified version of @gf3’s Sexy Bash Prompt
 # (https://github.com/gf3/dotfiles)
